@@ -14,7 +14,8 @@
     height: 100vh;
     display: flex;
     justify-content: center;
-    overflow-x: hidden;   
+    overflow-x: hidden;  
+    background: #CC221B; 
 
 }
 .wrapper{
